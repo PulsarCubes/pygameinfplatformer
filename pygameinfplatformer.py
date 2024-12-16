@@ -52,7 +52,7 @@ running = True
 gravity = 0.7
 player_speed_y = 0
 
-player = Player(600, 650)
+player = Player(600, 600)
 player_group = pygame.sprite.Group()
 player_group.add(player)
 platform1 = Platform()
